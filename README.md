@@ -1,4 +1,3 @@
 - 🔭 I’m currently working on Philosopher
 - 🌱 I’m currently learning Multithreading
 - 💬 Ask me about my fdf I like it very much
-- 📫 How to reach me: ...
