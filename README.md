@@ -4,13 +4,13 @@
 
 Project in the tank :
 
-🔲 Math function drawer
-🔲 "contrepèterie" detector #L'ouvrier charpentier
-🔲 cool visual maker
-🔲 Philosophers #42 Project
-🔲 Minishell #42 Project
-🔲 Cube3D #42 Project
-🔲 a full fledge game (at least mechanically) based on Cube3D
+🔲 Math function drawer <br />
+🔲 "contrepèterie" detector #L'ouvrier charpentier <br />
+🔲 cool visual maker <br />
+🔲 Philosophers #42 Project <br />
+🔲 Minishell #42 Project <br />
+🔲 Cube3D #42 Project <br />
+🔲 a full fledge game (at least mechanically) based on Cube3D <br />
 
 </p>
 
