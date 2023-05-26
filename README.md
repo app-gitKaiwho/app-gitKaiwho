@@ -10,7 +10,7 @@ Project in the tank :
 >🔲 Philosophers #42 Project <br />
 >🔲 Minishell #42 Project <br />
 >🔲 Cube3D #42 Project <br />
->🔲 a full fledge game (at least mechanically) based on Cube3D <br />
+>🔲 A fully fledge game (at least mechanically) based on Cube3D <br />
 
 </p>
 
