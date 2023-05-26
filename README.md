@@ -2,6 +2,16 @@
 - 🌱 I’m currently learning Multithreading
 - 💬 Ask me about my fdf I like it very much
 
+Project in the tank :
+
+🔲 Math function drawer
+🔲 "contrepèterie" detector #L'ouvrier charpentier
+🔲 cool visual maker
+🔲 Philosophers #42 Project
+🔲 Minishell #42 Project
+🔲 Cube3D #42 Project
+🔲 a full fledge game (at least mechanically) based on Cube3D
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
