@@ -5,7 +5,6 @@
 Project in the tank :
 
 >🔲 Math **function drawer** <br />
->🔲 **"Contrepèterie" detector** #L'ouvrier charpentier <br />
 >🔲 Cool **visual maker** <br />
 >🔲 **Minishell** #42 Project <br />
 >🔲 **Cube3D** #42 Project <br />
