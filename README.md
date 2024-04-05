@@ -1,12 +1,11 @@
-- 🔭 I’m currently working on Minishell
-- 🌱 I’m currently learning about how bash work
+- 🔭 I’m currently working on Cube3d
+- 🌱 I’m currently learning about graphical pipeline
 - 💬 Ask me about my fdf I like it very much
 
 Project in the tank :
 
 >🔲 Math **function drawer** <br />
 >🔲 Cool **visual maker** <br />
->🔲 **Minishell** #42 Project <br />
 >🔲 **Cube3D** #42 Project <br />
 >🔲 **A fully fledge game** (at least mechanically) based on Cube3D <br />
 
