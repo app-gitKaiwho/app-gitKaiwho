@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Transcendance
-- 🌱 I’m currently learning about Aws, microservice and Django
+- 🌱 I’m currently learning about AWS, microservice developpement and Django framework
 - 💬 Ask me about my fdf I like it very much
 
 Project in the tank :
