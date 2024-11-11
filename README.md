@@ -1,13 +1,13 @@
-- 🔭 I’m currently working on Cube3d
-- 🌱 I’m currently learning about graphical pipeline
+- 🔭 I’m currently working on Transcendance
+- 🌱 I’m currently learning about Aws, microservice and Django
 - 💬 Ask me about my fdf I like it very much
 
 Project in the tank :
 
 >🔲 Math **function drawer** <br />
 >🔲 Cool **visual maker** <br />
->🔲 **Cube3D** #42 Project <br />
->🔲 **A fully fledge game** (at least mechanically) based on Cube3D <br />
+>🔲 **Transcendance** #42 Project <br />
+>🔲 **A fully fledge game** (at least mechanically) <br />
 
 </p>
 
