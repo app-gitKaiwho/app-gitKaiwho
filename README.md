@@ -4,10 +4,10 @@
 
 Project in the tank :
 
->🔲 Math **function drawer** <br />
->🔲 Cool **visual maker** <br />
->🔲 **Transcendance** #42 Project <br />
->🔲 **A fully fledge game** (at least mechanically) <br />
+> Math **function visualiser** <br />
+> Cool **visual maker** <br />
+> **Transcendance** #42 Project <br />
+> **A fully fledge game** (at least mechanically) <br />
 
 </p>
 
